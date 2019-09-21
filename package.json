@@ -1,0 +1,25 @@
+{
+  "name": "gively-server",
+  "version": "1.0.0",
+  "description": "Server for gively client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpwarren13/gively-server.git"
+  },
+  "keywords": [
+    "gively"
+  ],
+  "author": "John Warren <johnpwarren@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpwarren13/gively-server/issues"
+  },
+  "homepage": "https://github.com/jpwarren13/gively-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
